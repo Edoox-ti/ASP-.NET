@@ -1,0 +1,499 @@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Central Consignações</title>
+    <meta content="Empréstimo online, seguro e com a menor taxa. Ideal para você!" name="descriptison">
+    <meta content="Consignado, Central" name="keywords">
+    <meta name="author" content="TI - Central Consignações">
+
+
+    <!-- Favicons -->
+    <link href="https://www.centralconsignacoes.com.br/images/logo/favicon.png" rel="icon">
+    <link href="https://www.centralconsignacoes.com.br/images/logo/favicon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i&display=swap" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="/assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/Content/fab_button.css?versao=1" rel="stylesheet" />
+    <link href="~/Content/style_dri.css?versao=3" rel="stylesheet" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Template Main CSS File -->
+    <link href="/assets/css/style.css?versao=3" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <meta name="facebook-domain-verification" content="tsle61zck56yqxdmidb0mnk8sftzky" />
+    <meta name="google-signin-scope" content="profile email">
+    <meta name="google-signin-client_id" content="926618235998-2n4jp9aqm51gmhhng72dg8j98ohlq7n7.apps.googleusercontent.com">
+</head>
+<body>
+    <div>
+
+        <div class="row">
+            <div class="col-xl-12 col-md-12 text-center p-5">
+                <img src="~/image_landing/191915-6d3e1c66.png" />
+            </div>
+        </div>
+        <section style="background: url('/image_landing/ip-1357f738.png') top left no-repeat; background-size: cover;"
+                 data-aos="fade-up" date-aos-delay="200">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-5 col-md-6 text-center p-lg-5 text-white">
+
+                        <br />
+                        <h1>
+                            Empréstimo Consignado não é o que você pensa!
+                        </h1>
+                        <br />
+                        <h6>
+                            Não estamos de brincadeira, continue na página e saiba o motivo que podemos te ajudar.
+                        </h6>
+                    </div>
+                    <div class="col-xl-6 col-md-6 text-center ">
+
+                        <img src="~/image_landing/muie-cc4e5c31.png" class="img-fluid" />
+                        <br />
+                        <br />
+                        <p>
+                            <a href="http://novosite.centralconsignacoes.com.br/Emprestimo/Index2"
+                               class="btn btn-lg btn-success rounded-pill text-lg-center">Quero Contratar</a>
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+        </section>
+        <section style="background-color:ghostwhite"
+                 data-aos="fade-right" date-aos-delay="200">
+            <br />
+            <div class="row">
+                <div class="col-xl-3 col-md-6 text-center ">
+                    <p><img src="~/image_landing/simbolo-b96db0c2.png" /></p>
+                    <h4>Parcela descontara direto do Inss! (Não existe risco de deixar de pagar)</h4>
+                </div>
+                <div class="col-xl-3 col-md-6 text-center ">
+                    <p><img src="~/image_landing/simbolo-b96db0c2.png" /></p>
+                    <h4>Valor de parcela nunca se altera!</h4>
+                </div>
+                <div class="col-xl-3 col-md-6 text-center ">
+                    <p><img src="~/image_landing/simbolo-b96db0c2.png" /></p>
+                    <h4>Primeiro desconto para 90 dias após a liberação do valor!</h4>
+                </div>
+                <div class="col-xl-3 col-md-6 text-center ">
+                    <p><img src="~/image_landing/simbolo-b96db0c2.png" /></p>
+                    <h4>Taxa de até 1,8% mês</h4>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-xl-12 col-md-6 text-center ">
+                    <a href="http://novosite.centralconsignacoes.com.br/Emprestimo/Index2"
+                       class="btn btn-lg btn-success rounded-pill text-lg-center">Quero Contratar</a>
+                </div>
+
+            </div>
+            <br />
+
+        </section>
+        <section data-aos="fade-left" date-aos-delay="200">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-3">
+                        <h1 class="text-center">
+                            <span style="color: #000000;">Por que a Central Consignações?</span>
+                        </h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center">
+
+                        <div class="text-center">
+                            <img class="img-fluid" alt="" data-src="~/image_landing/laranjinha-97474ef8.png" data-srcset="~/image_landing/laranjinha-97474ef8.png 20w, ~/image_landing/laranjinha-ed1270f0.png 40w" data-sizes="(min-width: 20px) 20px" data-width="20" data-height="20" uk-img="" src="~/image_landing/laranjinha-97474ef8.png" sizes="(min-width: 20px) 20px" srcset="~/image_landing/laranjinha-97474ef8.png 20w, ~/image_landing/laranjinha-ed1270f0.png 40w">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-5">
+
+                        <div class="text-center"><p><span style="color: #ff6600;"><strong>Somos uma empresa com 12 anos no mercado,</strong> </span>trabalhamos com confiança e qualidade em nossos serviços, além de tudo, temos certificação aprovada pela Instrução Normativa RFB nº 1.634, de 06 de maio de 2016, em conformidade com a Resolução Nº 3.954, do Banco Central do Brasil, e registrada sob o CNPJ 12612003000165. <span style="color: #ff6600;">Que apenas empresas com alto padrão de qualidade e sem nenhum índice de fraude junto ao banco central possuem.</span> Também em total conformidade com a Lei o 13.709 ( Lei Geral de proteção de Dados Pessoais-LGPD)</p></div>
+
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-3 col-lg-3 p-5"></div>
+                    <div class="col-lg-6 col-lg-6 p-5">
+                        <div class="embed-responsive embed-responsive-16by9 container-fluid">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dFdpV6ADX9U?disablekb=1" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-lg-3 p-5"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-2">
+                        <a href="http://novosite.centralconsignacoes.com.br/Emprestimo/Index2"
+                           class="btn btn-lg btn-success rounded-pill text-lg-center">Quero Contratar</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section style="background-color:#ff6600" data-aos="fade-right" date-aos-delay="200">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-2">
+                        <div class="text-center">
+                            <h1 class="text-center">        <span style="color: #ffffff;">Assista esse vídeo e&nbsp; veja porque somos sua melhor opção.</span>    </h1>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-3 col-lg-3 p-5"></div>
+                    <div class="col-lg-6 col-lg-6 p-5">
+                        <div class="embed-responsive embed-responsive-16by9 container-fluid">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2EjbwBXfmlI?disablekb=1" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-lg-3 p-5"></div>
+                </div>
+
+
+
+
+
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-2">
+                        <a href="http://novosite.centralconsignacoes.com.br/Emprestimo/Index2"
+                           class="btn btn-lg btn-success rounded-pill text-lg-center">Quero Contratar</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section data-aos="fade-left" date-aos-delay="200">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12 col-md-6 text-center p-2">
+                        <h2>
+                            Quem já contratou aprova?
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 col-md-6 text-center p-2">
+                        <h5>Depoimentos reais de clientes que realizaram sonhos:</h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 text-center p-2">
+                        <p><img src="~/image_landing/1-2b5eb9ce.jpeg" /></p>
+                        <h5>Lilian Fernandes</h5>
+                        <p>"No momento em que eu estava para concretizar meu sonho da casa própria, o dinheiro acabou e com ele o sonho correu o risco de se perder. Foi qdo recebi uma proposta abençoada da representante da a Central Consignações e, de repente, veio uma luz no fim do túnel. Foi tudo rápido, prático, e principalmente, claro e honesto. Fiz meu empréstimo e estou na minha casa acabada, conforme meu salário pode pagar. Fico feliz pela presteza e atendimento que recebi. Obrigada Luci, minha consultora, obrigada equipe"</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 text-center p-2">
+                        <p>
+                            <img src="~/image_landing/2-713f86ae.jpeg" />
+                        </p>
+                        <h5>Magda dos santos</h5>
+                        <p>
+                            "Quando recebi o contato da Central de Consignação fiquei surpresa! No início fiquei receosa, mais quando apareceu a oportunidade de comprar um pequeno terreno e quitar dívidas e também viajar, fiquei feliz!
+                            Fui maravilhosamente atendida por Lucy, que pelo ZAP, fez todo o processo vê me deu toda a atenção, até mais do que eu esperava. Foram práticos, rápidos vê super eficientes.
+                            Se alguém me perguntar , sendo aposentado é claro, preciso de dinheiro: indico, sem sombra de dúvida a Central de Consignação!"
+                        </p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 text-center p-2">
+                        <p>
+                            <img src="~/image_landing/vilamar-7d702c42-ea4084c9.jpeg" />
+                        </p>
+                        <h5>Lilian Fernandes</h5>
+                        <p>"Olá sou Vilamar Valente, , fiz um empréstimo com empresa fui muito bem atendido deu tudo certo, o dinheiro foi depositado certinho na minha conta graças a Central Consignações, vou pagar umas dividas e o que sobrar vou guardar por alguma eventualidade no futuro, a moça que fez todo processo do meu empréstimo o nome é Milena, muito educada gentil, esclareceu todas minhas dúvidas, sempre com muita paciência, por isso eu recomendo se está pensando em fazer um empréstimo consignado, entre em contato com a Central Consignações que será muito bem atendido e vai conseguir seu empréstimo, quero deixar meu agradecimento e abraço a todos da Central Consignações em especial a Milena por paciência que teve comigo meu muito obrigado!..."</p>
+                    </div>
+                </div>
+
+                <br />
+
+
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-2">
+                        <a href="http://novosite.centralconsignacoes.com.br/Emprestimo/Index2"
+                           class="btn btn-lg btn-success rounded-pill text-lg-center">Quero Contratar</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section style="background-color:#ff6600" data-aos="fade-up" date-aos-delay="200">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-3">
+                        <h3 class="text-center">
+                            <span style="color: #FFFFFF;">
+                                Restou dúvidas?<br />
+                                Entre em contato clicando na imagem:
+                            </span>
+                        </h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center">
+
+                        <div class="text-center">
+                            <a href="tel://08000562490"><img src="~/image_landing/1818-4a38bea5.png" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-3">
+                        <h4 class="text-center">
+                            <span class="text-white-50">
+                                Todas suas dúvidas serão tiradas com nossos responsáveis.
+
+                            </span>
+                        </h4>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <br />
+                <div class="row">
+                    <div class="col-xl-12 col-md-6 text-center p-3">
+                        <div class="text-center">
+                            <img src="~/image_landing/151515-2722f38a.png" style="opacity:0.7" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+    <div class="fab">
+        <button class="principal_fab" title="Inteligencia Artificial Central Consignacoes">
+        </button>
+        <ul>
+
+            <li>
+                <a href="https://api.whatsapp.com/send/?phone=5511932560120&text&app_absent=0" target="_blank" class="text-white">
+                    <button id="opcao1" class="fab_button_whastapp" title="WhatsApp">
+
+
+                        <i class="fa fa-whatsapp"></i>
+
+                    </button>
+                </a>
+            </li>
+            <li>
+
+                <a href="tel:08000562490" class="text-white">
+                    <button id="opcao2" class="fab_button_0800" title="Ligar">
+                        <i class="fa fa-phone"></i>
+
+
+                    </button>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/central.consignacoes/" target="_blank" class="text-white">
+                    <button id="opcao3">
+                        <i class="fa fa-instagram"></i>
+                    </button>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <script>
+
+        function toggleFAB(fab) {
+            if (document.querySelector(fab).classList.contains('show')) {
+                document.querySelector(fab).classList.remove('show');
+            } else {
+                document.querySelector(fab).classList.add('show');
+            }
+        }
+
+        document.querySelector('.fab .principal_fab').addEventListener('click', function () {
+            toggleFAB('.fab');
+        });
+
+        document.querySelectorAll('.fab ul li button').forEach((item) => {
+            item.addEventListener('click', function () {
+                toggleFAB('.fab');
+            });
+        });
+    </script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.js" integrity="sha512-0XDfGxFliYJPFrideYOoxdgNIvrwGTLnmK20xZbCAvPfLGQMzHUsaqZK8ZoH+luXGRxTrS46+Aq400nCnAT0/w==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js" integrity="sha512-pHVGpX7F/27yZ0ISY+VVjyULApbDlD0/X0rgGbTqCE7WFW5MezNTWG/dnhtbBuICzsd0WQPgpE4REBLv+UqChw==" crossorigin="anonymous"></script>
+
+
+    @*JivorChat*@
+
+    <script type='text/javascript'>
+
+        (function () {
+            var widget_id = 'wEc0n1T3Nc'; var d = document; var w = window; function l() {
+                var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/' + widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);
+            } if (d.readyState == 'complete') { l(); } else { if (w.attachEvent) { w.attachEvent('onload', l); } else { w.addEventListener('load', l, false); } }
+        })();
+    </script>
+
+
+    <!-- Vendor JS Files -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+
+
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="/assets/vendor/php-email-form/validate.js"></script>
+    <script src="/assets/vendor/venobox/venobox.min.js"></script>
+    <script src="/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="/assets/vendor/counterup/counterup.min.js"></script>
+    <script src="/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="/assets/vendor/aos/aos.js"></script>
+
+    <link href="~/Content/fab_button.css?versao=1" rel="stylesheet" />
+    <link href="~/Content/style_dri.css?versao=3" rel="stylesheet" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+
+    <script src="~/Scripts/mascara.js"></script>
+    <script src="/assets/js/main.js"></script>
+
+
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.22.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+            apiKey: "AIzaSyBmgcCk43Gj-EEcdNRSSkGhI5bjV0mfPSo",
+            authDomain: "sitecentral-e54dd.firebaseapp.com",
+            databaseURL: "https://sitecentral-e54dd.firebaseio.com",
+            projectId: "sitecentral-e54dd",
+            storageBucket: "sitecentral-e54dd.appspot.com",
+            messagingSenderId: "67453173601",
+            appId: "1:67453173601:web:fdef62a52ecc48ecf2cf20",
+            measurementId: "G-M5TDZJ4DFB"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-5J7XMHVLLN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-5J7XMHVLLN');
+    </script>-->
+    <!-- End Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180486421-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-180486421-1');
+    </script>
+
+
+
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '355160295793566');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=355160295793566&ev=PageView&noscript=1" />
+    </noscript>
+
+    <!-- End Facebook Pixel Code -->
+
+    <div name="Dri">
+        <a href="https://central-bot.azurewebsites.net" target="_blank">
+            <div id="frame" class="bot slide-in-fwd-bottom" style="margin-bottom: 10px;">
+                <div onclick="trigger()" id="arrows" class="content normal-arrows">
+                </div>
+                <img src="https://people-prod-files.s3.us-west-2.amazonaws.com/20200406151106-285ac0a3-dd45-4f61-96c5-b06b1f1ca870.png" />
+                <div class="shadow-effect"></div>
+                <p style="font-size:10pt!important;">
+                    <b class="text-black-50">
+                        Olá! Sou a Dri, Assistente Virtual!<br>
+                        Posso te ajudar?
+                    </b><br style="clear:both">
+                </p>
+            </div>
+        </a>
+        <script>
+            function trigger() {
+                var frame = document.getElementById("frame");
+                var arrows = document.getElementById("arrows");
+                if (frame.classList.contains("hide")) {
+                    frame.classList.remove("hide");
+                    arrows.classList.replace("revert-arrows", "normal-arrows");
+
+                } else {
+                    frame.classList.add("hide");
+                    arrows.classList.replace("normal-arrows", "revert-arrows");
+                }
+            }
+
+        </script>
+    </div>
+
+</body>
+</html>
